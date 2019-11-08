@@ -1,0 +1,29 @@
+{
+    "name": "orangefire",
+    "displayName": "OrangeFire",
+    "description": "VSCode OrangeFire Theme, to make your editor look fire, orange and cool!",
+    "version": "0.0.1",
+    "repository": 
+    {
+        "type": "git",
+        "url": "https://github.com/Futureglobe/OrangeFire"
+    },
+    "homepage": "http://futureglobe.de/",
+    "icon": "images/themeIcon.png",
+    "publisher": "Futureglobe",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OrangeFire",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OrangeFire-color-theme.json"
+            }
+        ]
+    }
+}

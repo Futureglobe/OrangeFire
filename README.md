@@ -1,4 +1,4 @@
-# SplashBlue Theme
+# OrangeFire Theme
 
 VSCode OrangeFire Theme, to make your editor look fire, orange and cool!
 Look at the screenshots and see how great the theme looks!
